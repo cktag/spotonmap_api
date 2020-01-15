@@ -1,6 +1,6 @@
 # Spots On Map API
 
-Spots On Map is a node.js API to work with the Spots on Map Application
+Spots On Map is a node.js API to work with the Spots on Map Application (https://github.com/cktag/spotonmap_app/)
 
 ## Installation
 
