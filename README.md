@@ -1,6 +1,7 @@
 # Spots On Map API
 
-Spots On Map is a node.js API to work with the Spots on Map Application (https://github.com/cktag/spotonmap_app/)
+Spots On Map is a node.js API to work with the Spots on Map Application (https://github.com/cktag/spotonmap_app/).
+You need mangoDB setup and running.
 
 ## Installation
 
